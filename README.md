@@ -21,7 +21,7 @@ Veritas offers a modern, responsive layout for a news/media website with a uniqu
 
 ## 📁 Folder Structure
 
-/index.html # Main HTML file /images/ # Folder for all visual assets used in the articles
+/index.html # Main HTML file /images/ # Folder for all visual assets used in the articles(not added here in github)
 
 
 ## 🚀 Getting Started
